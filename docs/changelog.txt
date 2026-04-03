@@ -1,4 +1,4 @@
 -Version Check
 -Pridana lokalna historia dopozeranych a rozpozeranych streamov
 -Vyhladavanie by malo byt rychlejsie
--CSFD je dodzubane a pracujem na tom
+-CSFD opat funguje
