@@ -2,3 +2,7 @@
 -Pridana lokalna historia dopozeranych a rozpozeranych streamov
 -Vyhladavanie by malo byt rychlejsie
 -CSFD opat funguje
+-Lepsie vyhladavacie parametre
+-Nove logo
+-Moznost vymazania historie
+-Stahovanie popisov na pozadi default=false
